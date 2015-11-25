@@ -1,1 +1,1 @@
-# geb-springsnow-twitterbot
+Simple script that handles my personal twitter account (@OwainWest) because I'd like to have an active Twitter but can't really be bothered to Tweet myself. Uses text from two fantastic books, GEB by Hofstadter and Spring Snow by Mishima, to obtain content.
