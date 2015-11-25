@@ -2,7 +2,6 @@ from random import randrange
 import twitter
 import tweepy 
 import time
-# create two random numbers between -100/100
 while True:
 	num1 = randrange(1,3435)
 	num2 = randrange(3436,19155)
@@ -10,8 +9,6 @@ while True:
 	f=open('geb.txt')
 	lines=f.readlines()
 
-
-	# choose a random operator
 	operator = randrange(0,1)
 
 	if lines[num1].endswith(".") or lines[num1].endswith(","):
